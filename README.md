@@ -1,0 +1,2 @@
+# Jatenow
+TERMUX HACKİNG
